@@ -1,5 +1,3 @@
-Copy and paste this entire content into your `README.md` file:
-
 ```markdown
 # Product Collection App
 
@@ -142,61 +140,4 @@ Collection Page
     |
     ↓
 Manage Quantity & View Total Price
-```
 
----
-
-## 🎯 Learning Outcomes
-
-This project helped me understand and implement:
-
-* React functional components
-* React props and state management
-* React Router navigation
-* Dynamic rendering using JavaScript
-* Handling user interactions
-* Managing application data
-* Creating reusable components
-* Styling React applications using CSS
-
----
-
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
-Example:
-
-```
-Home Page Screenshot
-
-Product Details Screenshot
-
-Collection Page Screenshot
-```
-
----
-
-## 🚀 Future Improvements
-
-* Add user authentication
-* Add product search functionality
-* Add category filtering
-* Store collection data using local storage
-* Improve UI with animations
-
----
-
-## 👨‍💻 Author
-
-**Lavanya Ontipalli**
-
----
-
-## 📄 License
-
-This project is created for learning and internship assignment purposes.
-
-```
-
-This version is suitable for your **React internship assignment GitHub submission** and looks much better than the default Vite README.
