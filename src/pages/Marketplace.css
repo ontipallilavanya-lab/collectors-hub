@@ -1,0 +1,71 @@
+.marketplace {
+  padding: 30px;
+}
+
+.marketplace h1 {
+  margin-bottom: 20px;
+}
+
+.filters {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.filters input,
+.filters select {
+  padding: 10px;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.marketplace{
+
+padding:30px;
+
+}
+
+.marketplace h1{
+
+margin-bottom:20px;
+
+}
+
+.filters{
+
+display:flex;
+
+gap:20px;
+
+margin-bottom:30px;
+
+}
+
+.filters input{
+
+width:250px;
+
+padding:10px;
+
+}
+
+.filters select{
+
+padding:10px;
+
+}
+
+.product-grid{
+
+display:grid;
+
+grid-template-columns:
+repeat(auto-fit,minmax(250px,1fr));
+
+gap:20px;
+
+}
